@@ -14,7 +14,15 @@
   "applied_templates": [
     {
       "name": "copier-flexlate-dev-semantic-release",
-      "data": {},
+      "data": {
+        "repo_name": "copier-semantic-release",
+        "full_name": "Copier Template for Semantic Release",
+        "repo_username": "nickderobertis",
+        "short_description": "Copier Template to Set up Semantic Release",
+        "package_author": "Nick DeRobertis",
+        "author_email": "derobertis.nick@gmail.com",
+        "main_branch_name": "main"
+      },
       "version": "8e1732f6879d4d0f7a4a015732022ab655cc8106",
       "add_mode": "local",
       "root": "."
