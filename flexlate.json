@@ -4,7 +4,7 @@
       "name": "copier-flexlate-dev-semantic-release",
       "path": "https://github.com/nickderobertis/copier-flexlate-dev-semantic-release",
       "type": "copier",
-      "version": "8e1732f6879d4d0f7a4a015732022ab655cc8106",
+      "version": "1998b6e5ac2609e539ef27a8ca6501c61cd8ed9c",
       "git_url": "https://github.com/nickderobertis/copier-flexlate-dev-semantic-release",
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -23,7 +23,7 @@
         "author_email": "derobertis.nick@gmail.com",
         "main_branch_name": "main"
       },
-      "version": "8e1732f6879d4d0f7a4a015732022ab655cc8106",
+      "version": "1998b6e5ac2609e539ef27a8ca6501c61cd8ed9c",
       "add_mode": "local",
       "root": "."
     }
