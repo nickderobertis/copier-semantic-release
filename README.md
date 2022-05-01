@@ -1,4 +1,3 @@
-copier-semantic-release
 # Copier Template for Semantic Release
 
 Copier Template to Set up Semantic Release
